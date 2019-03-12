@@ -21,7 +21,7 @@ public class TelegramBot {
 	public typealias RequestParameters = [String: Any?]
 	
     /// Telegram server URL.
-    public var url = "https://api.telegram.org"
+    public var url = "https://tapi.bale.ai"
     
     /// Unique authentication token obtained from BotFather.
     public var token: String
